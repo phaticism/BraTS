@@ -2,6 +2,8 @@
 
 This directory contains a comprehensive implementation of 2D medical image segmentation using U-Net architecture and Federated Learning (FL) for brain tumor segmentation on the BraTS dataset.
 
+The result from a sample run can be found in BraTS.pdf in the source.
+
 ## Project Overview
 
 The project implements a 2D U-Net model for medical image segmentation with support for both centralized training and federated learning approaches. It's designed to work with brain tumor segmentation datasets (BraTS 2017, BraTS 2021) and includes preprocessing, training, evaluation, and visualization capabilities.
